@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-notification-aggregator",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Aggregates multiple notices into a single notification to prevent UI clutter.",
 	"main": "main.js",
 	"scripts": {

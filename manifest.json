@@ -1,7 +1,7 @@
 {
 	"id": "notification-aggregator",
 	"name": "Notification Aggregator",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.0.0",
 	"description": "Aggregates multiple notices into a single notification to prevent UI clutter.",
 	"author": "William Anderson",
